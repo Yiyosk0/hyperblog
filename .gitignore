@@ -1,3 +1,5 @@
-*.jpg
-*.png
+#imagenes
+/imagenes/*
+
+#folders
 hyperblog-ignore
