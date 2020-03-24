@@ -1,5 +1,7 @@
 #imagenes
 /imagenes/*
+*.jpg
+*.png
 
 #folders
 hyperblog-ignore

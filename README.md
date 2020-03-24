@@ -6,3 +6,4 @@ Un blog para aprender sobre Git y GitHub
 * Ramas
 * Resolucion de conflictos 
 * GitHub y sus caracteristicas escenciales
+* Test para el cherry pick de git
